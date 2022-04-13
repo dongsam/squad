@@ -1,0 +1,10 @@
+root: ./
+
+structure:
+    docs: docs/README.md
+    summary: SUMMARY.md
+    spec-liquidity: x/liquidity/spec/README.md
+    
+
+redirects:  
+    previous/page: new-folder/page.md
